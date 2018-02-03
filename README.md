@@ -36,5 +36,6 @@ jupyter notebook
 The webpage will open automatically and you will be able to browse the files inside the repo.
 
 ### Files
-* [pyknow_intro](https://github.com/konradbjk/Rule-Based-Engine-pyknow/blob/master/pyknow_intro.ipynb) - 3 examples on different level of advance with notes and thought about them.
 * README.md - you actualy read it :)
+* [pyknow_intro](https://github.com/konradbjk/Rule-Based-Engine-pyknow/blob/master/pyknow_intro.ipynb) - 3 examples on different level of advance with notes and thought about them.
+* [text_mining.ipynb](https://github.com/konradbjk/Rule-Based-Engine-pyknow/blob/master/text_mining.ipynb) - how to mine text using RAKE and NTLK

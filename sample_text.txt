@@ -1,0 +1,12 @@
+In January, Google launched a new service called Cloud AutoML, which can automate some tricky aspects of designing machine-learning software. While working on this project, the company's researchers sometimes needed to run as many as 800 graphics chips in unison to train their powerful algorithms.
+
+Unlike humans, who can recognize coffee cups from seeing one or two examples, AI networks based on simulated neurons need to see tens of thousands of examples in order to identify an object. Imagine trying to learn to recognize every item in your environment that way, and you begin to understand why AI software requires so much computing power.
+
+If researchers could design neural networks that could be trained to do certain tasks using only a handful of examples, it would "upend the whole paradigm" Charles Bergan, vice president of engineering at Qualcomm, told the crowd at MIT Technology Review's EmTech China conference earlier this week.
+
+If neural networks were to become capable of "one-shot learning" Bergan said, the cumbersome process of feeding reams of data into algorithms to train them would be rendered obsolete. This could have serious consequences for the hardware industry, as both existing tech giants and startups are currently focused on developing more powerful processors designed to run today's data-intensive AI algorithms.
+
+It would also mean vastly more efficient machine learning. While neural networks that can be trained using small data sets are not a reality yet, research is already being done on making algorithms smaller without losing accuracy, Bill Dally, chief scientist at Nvidia, said at the conference.
+
+Nvidia researchers use a process called network pruning to to make a neural network smaller and more efficient to run by removing the neurons that do no contribute directly to output. "There are ways of training that can reduce the complexity of training by huge amounts" Dally said.
+
