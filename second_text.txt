@@ -1,0 +1,17 @@
+Google just made it a lot easier to build your very own custom AI system.
+
+A new service, called Cloud AutoML, uses several machine-learning tricks to automatically build and train a deep-learning algorithm that can recognize things in images.
+
+The technology is limited for now, but it could be the start of something big. Building and optimizing a deep neural network algorithm normally requires a detailed understanding of the underlying math and code, as well as extensive practice tweaking the parameters of algorithms to get things just right. The difficulty of developing AI systems has created a race to recruit talent, and it means that only big companies with deep pockets can usually afford to build their own bespoke AI algorithms.
+
+“We need to scale AI out to more people,” Fei-Fei Li, chief scientist at Google Cloud, said ahead of the launch today. Li estimates there are at most a few thousand people worldwide with the expertise needed to build the very best deep-learning models. “But there are an estimated 21 million developers worldwide today,” she says. “We want to reach out to them all, and make AI accessible to these developers.”
+
+Cloud computing is one of the keys to making AI more accessible. Google, Amazon, Microsoft, and other companies are rushing to add machine-learning capabilities to their cloud platforms. Google Cloud already offers many such tools, but they use pretrained models. That limits what they can do—for example, programmers will only be able to use the tools to recognize a limited range of objects or scenes that they have already been trained to recognize. A new generation of cloud-based machine-learning tools that can train themselves would make the technology far more versatile and easier to use.
+
+Joaquin Vanschoren, a professor at the Eindhoven Institute of Technology in the Netherlands who specializes in automated machine learning, says it’s still a relatively new research topic, though interest in the area has been heating up lately. “It is impressive that they can release this as a production service so quickly,” he says.
+
+Vanschoren says automation can add a lot of computational cost, so Google must be throwing plenty of resources at the service. That’s only likely to get worse as programmers attempt to design AI systems that move beyond simple image classification and attempt to tackle ever broader tasks.
+
+Google researchers have been testing the limits of automating AI for some time now. In 2016, one team showed that deep learning could itself be used to identify the best tweaks to a deep-learning system. Last year another group at the company used simulated natural selection to “evolve” an optimal network architecture. And more recently, two Google scientists used reinforcement learning—a technique inspired by the way animals learn through positive feedback—to automatically improve a deep-learning system.
+
+Efforts in this area might ultimately feed into the grand effort to build more general and adaptable forms of artificial intelligence. But before the machines take over completely, you can at least try your hand developing your very own AI.
