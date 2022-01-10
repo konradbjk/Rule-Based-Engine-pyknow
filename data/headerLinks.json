@@ -1,0 +1,22 @@
+[
+    {
+        "pl": "O nas",
+        "en": "About us",
+        "href": "/about"
+    },
+    {
+        "pl": "Korzyści",
+        "en": "Features",
+        "href": "/#features"
+    },
+    {
+        "pl": "Partnerzy",
+        "en": "Partners",
+        "href": "/#partners"
+    },
+    {
+        "pl": "Kontakt",
+        "en": "Contact",
+        "href": "/about#contact"
+    }
+]
