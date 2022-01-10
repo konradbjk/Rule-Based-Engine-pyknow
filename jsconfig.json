@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/components/*": ["components/*"],
+      "@/styles/*": ["styles/*"],
+      "@/public/*": ["public/*"],
+      "@/images/*": ["public/images/*"],
+      "@/icons/*": ["public/assets/icons/*"],
+      "@/lib/*": ["lib/*"],
+      "@/data/*": ["data/*"]
+    }
+  },
+  // https://code.visualstudio.com/docs/languages/jsconfig#_using-the-exclude-property
+  "exclude": ["node_modules", ".next"]
+}
