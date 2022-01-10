@@ -1,3 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.sticky-nav {
+  position: sticky;
+  z-index: 10;
+  top: 0;
+  /* backdrop-filter: saturate(180%) blur(20px);
+  transition: background-color 0.1 ease-in-out; */
+}
+
+.text-gradient {
+  background: linear-gradient(to right, #ea9f3c, #d7c097);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
 html,
 body {
   padding: 0;
