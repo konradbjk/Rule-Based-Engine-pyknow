@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Grzegorz Ludwin",
+        "role": "Co-Founder / CEO",
+        "imageUrl": "/assets/people/grzegorz-ludwin.jpg",
+        "twitterUrl": "#",
+        "linkedinUrl": "https://www.linkedin.com/in/gludwin/",
+        "bio": {
+            "pl": "Prezes Zarządu Fundacji, od kilku lat związany ze środowiskiem firm i korporacji. Wspiera firmy w tworzeniu akcji i projektów z obszaru CSR, Employer Brandingu i wizerunku. Skutecznie angażuje środowisko biznesowe na rzecz organizacji pozarządowych, m.in. poprzez autorskie akcje: Pomagaj z pasją, Challenge #CEO4ProNGO czy też Kompas NGO. W wolnej chwili prowadzi szkolenia dla NGO, pomagając w eksponowaniu ich potencjału oraz inicjując współpracę z biznesem.",
+            "en": ""
+        }
+    },
+    {
+        "name": "Marta Schabikowska",
+        "role": "Board Memeber",
+        "imageUrl": "/assets/people/marta-schabikowska.jpg",
+        "twitterUrl": "#",
+        "linkedinUrl": "#",
+        "bio": {
+            "pl": "Członek Rady Fundacji, aktywnie wspiera działania Fundacji Pro NGO, od momentu jej powstania angażuje się w koordynację projektów oraz działania PR-owe. Udziela się przy tworzeniu wizerunku Fundacji w mediach społecznościowych, jest także autorką artykułów prasowych opisujących nasze działania. Prywatnie wesoła, empatyczna i bardzo energiczna osoba, w czasie wolnym odnawia stare meble oraz realizuje projekty DIY i hand made.",
+            "en": ""
+        }
+    },
+    {
+        "name": "Konrad Bujak",
+        "role": "Technical Advisor",
+        "imageUrl": "/assets/people/konrad-bujak.jpg",
+        "twitterUrl": "https://twitter.com/kbuj4k",
+        "linkedinUrl": "https://www.linkedin.com/in/konrad-bujak",
+        "bio": {
+            "pl": "Od 10 lat w IT głownie na stanowiskach data science, developerskich oraz product managera. Ekspert w technologiach chmurowych AWS i Azure, full-stack development i w produktach B2B, B2C a także D2C. Dodatkowo Konrad ma doswiadczenie zarządzaniu zespołem i organizowaniu wydarzeń firmowych.",
+            "en": "10 years of IT experience mostly as a data scientist, developer and product manager. An expert in AWS Cloud Systems and Azure. Full Stack Developer. Experienced in B2B, B2C and D2C projects. In addition, Konrad has experience in managing teams and organising team events."
+        }
+    }
+]
